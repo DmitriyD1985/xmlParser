@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tests-uites duration="50.5">
-  <test-suite failures="0" name="Untitled suite in /Users/niko/Sites/casperjs/tests/suites/casper/agent.js" package="tests/suites/casper/agent" tests="3" time="0.256">
+<testsuites duration="50.5">
+  <testsuite failures="0" name="Untitled suite in /Users/niko/Sites/casperjs/tests/suites/casper/agent.js" package="tests/suites/casper/agent" tests="3" time="0.256">
     <testcase classname="tests/suites/casper/agent" name="Default user agent matches /CasperJS/" time="0.103"/>
     <testcase classname="tests/suites/casper/agent" name="Default user agent matches /plop/" time="0.146"/>
     <testcase classname="tests/suites/casper/agent" name="Default user agent matches /plop/" time="0.007"/>
-  </test-suite>
-  <tests-uite failures="0" name="Test dash" package="tests/suites/casper/alert" tests="1" time="0.449">
+  </testsuite>
+  <testsuite failures="0" name="Test dash" package="tests/suites/casper/alert" tests="1" time="0.449">
     <testcase classname="tests/suites/casper/alert" name="alert event has been intercepted" time="0.449"/>
-  </tests-uite>
+  </testsuite>
   <testsuite failures="0" name="Untitled suite in /Users/niko/Sites/casperjs/tests/suites/casper/auth.js" package="tests/suites/casper/auth" tests="8" time="0.101">
     <testcase classname="tests/suites/casper/auth" name="Subject equals the expected value" time="0.1"/>
     <testcase classname="tests/suites/casper/auth" name="Subject equals the expected value" time="0"/>
@@ -817,4 +817,4 @@
   <testsuite failures="0" name="XUnitReporter() can handle a failed test" package="tests/suites/xunit" tests="1" time="0.005">
     <testcase classname="tests/suites/xunit" name="Found an element matching: testsuite[name=&quot;foo&quot;][package=&quot;foo&quot;][tests=&quot;1&quot;][failures=&quot;1&quot;] testcase[name=&quot;footext&quot;] failure[type=&quot;footype&quot;]" time="0.005"/>
   </testsuite>
-</tests-uites>
+</testsuites>
